@@ -4,11 +4,11 @@
 
   <parent>
     <groupId>com.blackducksoftware.integration</groupId>
-    <artifactId>int-suite-sdk-parent</artifactId>
+    <artifactId>suite-common-parent</artifactId>
     <version>1.0.3-SNAPSHOT</version>
   </parent>
 
-  <artifactId>int-suite-sdk-license-encryption</artifactId>
+  <artifactId>suite-common-license-encryption</artifactId>
   <packaging>jar</packaging>
 
   <name>Suite SDK Integration library License Encryption Tool</name>

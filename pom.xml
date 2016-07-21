@@ -8,7 +8,7 @@
     <version>1.0.5</version>
   </parent>
 
-  <artifactId>int-suite-sdk-parent</artifactId>
+  <artifactId>suite-common-parent</artifactId>
   <version>1.0.3-SNAPSHOT</version>
   <packaging>pom</packaging>
 
