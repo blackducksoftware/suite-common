@@ -13,20 +13,20 @@
   <packaging>pom</packaging>
 
   <name>Suite SDK Integration library Parent</name>
-  <inceptionYear>2014</inceptionYear>
   <url>https://www.github.com/blackducksoftware/suite-common</url>
- 
-  <scm>
-    <connection>scm:git:git://github.com/blackducksoftware/suite-common.git/</connection>
-    <developerConnection>scm:git:git@github.com:blackducksoftware/suite-common.git</developerConnection>
-    <url>https://www.github.com/blackducksoftware/suite-common</url>
-  </scm>
+  <inceptionYear>2014</inceptionYear>
 
   <modules>
     <module>shared</module>
     <module>encryption</module>
     <module>licenseEncryption</module>
   </modules>
+
+  <scm>
+    <connection>scm:git:git://github.com/blackducksoftware/suite-common.git/</connection>
+    <developerConnection>scm:git:git@github.com:blackducksoftware/suite-common.git</developerConnection>
+    <url>https://www.github.com/blackducksoftware/suite-common</url>
+  </scm>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
