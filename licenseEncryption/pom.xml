@@ -13,7 +13,7 @@
 
   <name>Suite SDK Integration library License Encryption Tool</name>
   <inceptionYear>2014</inceptionYear>
-
+  
   <dependencies>
     <dependency>
       <groupId>org.slf4j</groupId>
