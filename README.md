@@ -15,4 +15,4 @@ You can download the latest release from our public Artifactory (please see pom)
 All documentation for suite-common can be found on the base project:  https://github.com/blackducksoftware/suite-common/wiki
 
 ## License ##
-Apache License 2.0
+Apache License 2.0 
